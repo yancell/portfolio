@@ -136,7 +136,7 @@
         </section>
         <section class="page-section" id="team">
             <div class="container">
-                <h2 class="page-section-heading text-center text-uppercase text-white">Team</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Team</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
