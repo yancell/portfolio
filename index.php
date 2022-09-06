@@ -142,11 +142,8 @@
 					<h4 class="card-title">Post Title</h4>
 						<p class="card-text">
 							
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 						</p>
-					</div>
-					<div class="card-footer">
-						<a href="" class="card-link">Read more</a>
 					</div>
 			</div>
 			<div class="col-md-4 col-lg-4 col-sm-12">
@@ -158,11 +155,8 @@
 					   <h4 class="card-title">Post Title</h4>
 						<p class="card-text">
 							
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 						</p>
-					</div>
-					<div class="card-footer">
-						<a href="" class="card-link">Read more</a>
 					</div>
 			</div>
 			<div class="col-md-4 col-lg-4 col-sm-12">
@@ -174,11 +168,8 @@
 					<h4 class="card-title">Post Title</h4>
 						<p class="card-text">
 							
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 						</p>
-					</div>
-					<div class="card-footer">
-						<a href="" class="card-link">Read more</a>
 					</div>
 			</div>
 		</div>
