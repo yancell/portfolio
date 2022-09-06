@@ -132,6 +132,62 @@
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
+		<div class="row">
+			<div class="col-md-4 col-lg-4 col-sm-12">
+				<div class="card">
+					<div class="card-img">
+						<img src="images/posts/polit.jpg" class="img-fluid">
+					</div>
+					
+					<div class="card-body">
+					<h4 class="card-title">Post Title</h4>
+						<p class="card-text">
+							
+							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						</p>
+					</div>
+					<div class="card-footer">
+						<a href="" class="card-link">Read more</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 col-lg-4 col-sm-12">
+				<div class="card">
+					<div class="card-img">
+						<img src="images/posts/images.jpg" class="img-fluid">
+					</div>
+					
+					<div class="card-body">
+					   <h4 class="card-title">Post Title</h4>
+						<p class="card-text">
+							
+							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						</p>
+					</div>
+					<div class="card-footer">
+						<a href="" class="card-link">Read more</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 col-lg-4 col-sm-12">
+				<div class="card">
+					<div class="card-img">
+						<img src="images/posts/imag2.jpg" class="img-fluid">
+					</div>
+					
+					<div class="card-body">
+					<h4 class="card-title">Post Title</h4>
+						<p class="card-text">
+							
+							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						</p>
+					</div>
+					<div class="card-footer">
+						<a href="" class="card-link">Read more</a>
+					</div>
+				</div>
+			</div>
+		</div>
             </div>
         </section>
         <section class="page-section" id="team">
