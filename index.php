@@ -143,6 +143,36 @@
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
+		<div class="row">
+			<div class="col-lg-3 col-md-3 col-sm-12 item">
+				<img src="images/me.png" class="img-fluid" alt="team">
+				<div class="des">
+				 	Sara
+				 </div>
+				<span class="text-muted">Manager</span>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-12 item">
+				<img src="images/me.png" class="img-fluid" alt="team">
+				<div class="des">
+				 	 Chris
+				 </div>
+				<span class="text-muted">S.enginner</span>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-12 item">
+				<img src="images/me.png" class="img-fluid" alt="team">
+				<div class="des">
+				 	Layla 
+				 </div>
+				<span class="text-muted">Front End Developer</span>
+			</div>
+			<div class="col-lg-3 col-md-3 col-sm-12 item">
+				<img src="images/me.png" class="img-fluid" alt="team">
+				 <div class="des">
+				 	J.Jirard
+				 </div>
+				<span class="text-muted">Team Manager</span>
+			</div>
+		</div>
             </div>
         </section>
         <!-- About Section-->
