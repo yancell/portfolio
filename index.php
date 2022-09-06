@@ -42,7 +42,7 @@
                 <!-- Masthead Avatar Image-->
                 <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
                 <!-- Masthead Heading-->
-                <h1 class="masthead-heading text-uppercase mb-0">Portfolio Dahyani</h1>
+                <h1 class="masthead-heading text-uppercase mb-0">Dahyani</h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -134,7 +134,6 @@
                 </div>
 		<div class="row">
 			<div class="col-md-4 col-lg-4 col-sm-12">
-				<div class="card">
 					<div class="card-img">
 						<img src="images/posts/polit.jpg" class="img-fluid">
 					</div>
@@ -149,10 +148,8 @@
 					<div class="card-footer">
 						<a href="" class="card-link">Read more</a>
 					</div>
-				</div>
 			</div>
 			<div class="col-md-4 col-lg-4 col-sm-12">
-				<div class="card">
 					<div class="card-img">
 						<img src="images/posts/images.jpg" class="img-fluid">
 					</div>
@@ -167,10 +164,8 @@
 					<div class="card-footer">
 						<a href="" class="card-link">Read more</a>
 					</div>
-				</div>
 			</div>
 			<div class="col-md-4 col-lg-4 col-sm-12">
-				<div class="card">
 					<div class="card-img">
 						<img src="images/posts/imag2.jpg" class="img-fluid">
 					</div>
@@ -185,7 +180,6 @@
 					<div class="card-footer">
 						<a href="" class="card-link">Read more</a>
 					</div>
-				</div>
 			</div>
 		</div>
             </div>
